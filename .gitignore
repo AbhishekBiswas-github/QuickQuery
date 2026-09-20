@@ -1,0 +1,14 @@
+# Virtual Environments
+quickquery/
+venv/
+ENV/
+
+# Environment Variables
+.env
+
+# Python Cache Files
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
